@@ -1,0 +1,2 @@
+# web-dynamic
+individual project
